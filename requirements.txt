@@ -1,0 +1,7 @@
+streamlit
+pandas
+pillow
+Why these are needed:
+streamlit → to build the web application
+pandas → to handle CSV data and calculations
+pillow → to process uploaded images
