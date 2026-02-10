@@ -1,8 +1,7 @@
 ♻️ TagThePlast
 TagThePlast is a Streamlit-based web app for tracking plastic recycling and rewarding users with discount coupons.
-Workers log in and enter plastic details (type, weight, quality or images)
-The app calculates carbon saved and discount value
-A unique coupon is generated for each batch
-All data is stored in a CSV file
-Customers can view recycling benefits and impact through charts
-This project shows a simple way to encourage and track recycling using data.
+# TagThePlast Project
+
+This is my Streamlit project for plastic tracking and rewards.
+
+**Check out the live app here:** [Open TagThePlast App](https://tagtheplast.streamlit.app/)
